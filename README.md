@@ -1,7 +1,6 @@
 - 👋 Hi, I’m a fron-end developer
-- 💞️ I use HTML CSS and Javascript to build beutiful websites
+- 🌱 I use HTML CSS and Javascript to build beutiful websites
 - 👀 I’m interested in blockchain technologies
-- 🌱
 - 💞️ I’m looking to collaborate on javascript/frontEnd projects
 - 📫 reach me through email: kashifghafoor140@gmail or 
 - linkedin: https://www.linkedin.com/in/kashif-ghafoor-347b5918b/ 
